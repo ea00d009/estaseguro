@@ -1,64 +1,64 @@
-# ptoszek.pl - Sptoszkuj kogoś!
+# ¿Estás seguro? - ¡Trollea a alguien con Ptoszek!
 
 ![Ptoszek.pl](./media/images/ptok.jpg)
 
-[![Oficjalny serwer Discord](https://img.shields.io/badge/Discord-Oficjalny%20serwer%20Discord-5865F2?logo=discord&logoColor=white)](https://dc.ptoszek.pl)
+[![Servidor oficial de Discord](https://img.shields.io/badge/Discord-Servidor%20oficial%20de%20Discord-5865F2?logo=discord&logoColor=white)](https://dc.ptoszek.pl)
 
-### Czym jest ptoszek.pl?
-Ptoszek.pl to projekt edukacyjny mający na celu uświadamianie użytkowników internetu o zagrożeniach związanych z otwieraniem nieznanych linków. Strona demonstruje potencjalne możliwości stron internetowych uruchamianych w przeglądarce, takie jak nietypowe interakcje czy nieoczekiwane działania.
+### ¿Qué es ptoszek.pl?
+Ptoszek.pl es un proyecto educativo cuyo objetivo es concienciar a los usuarios de internet sobre los riesgos de abrir enlaces desconocidos. El sitio demuestra las capacidades potenciales de las páginas web ejecutadas en el navegador, como interacciones inusuales o acciones inesperadas.
 
-**Uwaga:**  
-Strona jest w pełni bezpieczna. Nie powoduje żadnych szkód ani zagrożeń dla Twojego urządzenia. Wszystkie funkcje mają charakter edukacyjny, a pobierane pliki (zdjęcia, filmy) są wolne od wirusów.
-
----
-
-## Jak możesz pomóc w rozwoju projektu?
-
-Ptoszek.pl to projekt open-source i każdy może wnieść swój wkład!  
-
-- Dodaj nowe funkcje, np. kolejne nietypowe interakcje w przeglądarce.  
-- Rozszerz stronę o nowe mechanizmy (np. obsługę kolejnych nietypowych zachowań).  
-- Zgłoś swoje pomysły w postaci **Pull Requesta** – chętnie je dodam!
+**Atención:**  
+El sitio es totalmente seguro. No causa ningún daño ni riesgo para tu dispositivo. Todas las funciones tienen carácter educativo, y los archivos descargables (fotos, vídeos) están libres de virus.
 
 ---
 
-## Jak zacząć?
+## ¿Cómo puedes ayudar al desarrollo del proyecto?
 
-1. Sklonuj repozytorium:  
+Ptoszek.pl es un proyecto de código abierto, ¡y cualquiera puede aportar su granito de arena!
+
+- Añade nuevas funciones, por ejemplo, más interacciones inusuales en el navegador.
+- Amplía el sitio con nuevos mecanismos (p. ej., soporte para más comportamientos inusuales).
+- Propón tus ideas mediante una **Pull Request**: ¡las añadiré con gusto!
+
+---
+
+## ¿Cómo empezar?
+
+1. Clona el repositorio:  
    ```bash
    git clone https://github.com/jaczup/ptoszek.pl.git
    cd ptoszek
    ```
-2. Otwórz projekt w swoim ulubionym edytorze kodu.  
-3. Wprowadź zmiany i przetestuj je lokalnie.  
-4. Zgłoś Pull Requesta!
+2. Abre el proyecto en tu editor de código favorito.  
+3. Realiza los cambios y pruébalos localmente.  
+4. ¡Envía una Pull Request!
 
 ---
 
-## Inspiracja
+## Inspiración
 
-Projekt został stworzony przez [jaczup.pl](https://jaczup.pl) na bazie popularnej strony [theannoyingsite.com](https://theannoyingsite.com), znanej za granicą.
+El proyecto fue creado por [jaczup.pl](https://jaczup.pl) basándose en el popular sitio [theannoyingsite.com](https://theannoyingsite.com), conocido en el extranjero.
 
 ---
 
 ## Historia
 
-Pewnego dnia, chcąc strollować moich znajomych, stworzyłem stronę sapcord.pl/ptoszek. Była to przerobiona kopia theannoyingsite.com, gdzie zamiast kotów umieściłem zdjęcia ptaków i dostosowałem kod strony, dodając elementy związane ze mną. Strona zaczęła żyć własnym życiem, gdy znajomi zaczęli rozsyłać do niej linki, co stało się pierwszą formą jej promocji. Wkrótce powstał pierwszy TikTok o Ptoszku, na którym strona została otwarta podczas lekcji informatyki (przez Hedwisa - dawny znajomy [kto wie, ten wie :)]). Był to rok 2021 / 2022. Popularność zaczęła rosnąć.
+Un día, queriendo trollear a mis amigos, creé la página sapcord.pl/ptoszek. Era una copia modificada de theannoyingsite.com, en la que en lugar de gatos coloqué fotos de pájaros y adapté el código de la página, añadiendo elementos relacionados conmigo. La página empezó a tener vida propia cuando mis amigos comenzaron a enviarse enlaces entre ellos, lo que se convirtió en su primera forma de promoción. Poco después surgió el primer TikTok sobre Ptoszek, en el que se abrió la página durante una clase de informática (por Hedwis, un antiguo conocido [quien sabe, sabe :)]). Era el año 2021/2022. La popularidad empezó a crecer.
 
-Rosnący ruch na stronie skłonił mnie do zakupu osobnej domeny – ptoszek.pl – na której strona działa do dziś. Wraz z nową domeną jej popularność eksplodowała, a użytkownicy masowo pokazywali ją na TikToku. Twórcy, tacy jak MokrySuchar i Dawid Jasper (i zapewne też parenastu innych o których nie wiem), zostali strollowani przez swoich widzów, którzy podsyłali im linki do strony. Ptoszek.pl pojawił się nawet w filmie testującym "wirusy" autorstwa mlodziutki7, oczywiście Ptoszek.pl z wirusem nie ma nic wspólnego.
+El creciente tráfico en la página me llevó a comprar un dominio propio: ptoszek.pl, en el que el sitio funciona hasta hoy. Con el nuevo dominio, su popularidad explotó, y los usuarios empezaron a mostrarla masivamente en TikTok. Creadores como MokrySuchar y Dawid Jasper (y probablemente varios más de los que no tengo constancia) fueron trolleados por sus propios espectadores, que les enviaban enlaces a la página. Ptoszek.pl incluso apareció en un vídeo de mlodziutki7 que probaba "virus", aunque, por supuesto, Ptoszek.pl no tiene nada que ver con ningún virus.
 
-Powstały również forki Ptoszka, które w interesujący sposób starają się zwrócić uwagę na zagrożenia w internecie. Cieszy mnie, że są osoby, które chcą tworzyć własne wersje projektu. Nie wiem jednak, czy ich celem było jedynie chwilowe trollowanie, czy faktyczna edukacja. Sam początkowo traktowałem Ptoszka jako żart, ale gdy strona zaczęła zdobywać popularność, zmieniłem swoje podejście i zacząłem rozwijać ją z myślą o przestrodze o niebezpieczeństwie stron w internecie.
+También surgieron forks de Ptoszek, que de forma interesante intentan llamar la atención sobre los peligros en internet. Me alegra que haya personas que quieran crear sus propias versiones del proyecto. Sin embargo, no sé si su objetivo era simplemente trollear momentáneamente o educar de verdad. Al principio yo mismo trataba a Ptoszek como una broma, pero cuando la página empezó a ganar popularidad, cambié mi enfoque y comencé a desarrollarla pensando en advertir sobre los peligros de internet.
 
-Obecnie projekt jest otwarty na Pull Requesty od innych osób, co stanowi świetną okazję, by zostać upamiętnionym w kodzie strony – każdy, kto wniesie ciekawą propozycję, może zostać dodany w postaci komentarza w kodzie, który zaproponował. 
+Actualmente el proyecto está abierto a Pull Requests de otras personas, lo que supone una gran oportunidad para quedar inmortalizado en el código de la página: cualquiera que aporte una propuesta interesante puede ser añadido en forma de comentario en el código, indicando quién la propuso.
 
-Niestety, pojawiły się również niezbyt zadowolające mnie kopie, które faktycznie były zawirusowane, ale na szczęście większość z nich już nie działa.
-Obecnie strona generuje około **2,5 tys. odwiedzin dziennie**, a w trakcie walk freakfightowych liczba ta wzrasta nawet do **10 tys. odwiedzin**, gdy ludzie rozsyłają linki do strony jako rzekome "nielegalne restreamy" transmisji.
+Lamentablemente, también han aparecido copias poco afortunadas que sí estaban realmente infectadas con virus, aunque por suerte la mayoría de ellas ya no funcionan.
+Actualmente la página genera alrededor de **2.500 visitas diarias**, y durante las peleas freakfight esa cifra aumenta incluso hasta **10.000 visitas**, cuando la gente comparte enlaces a la página haciéndolos pasar por supuestos "restreams ilegales" de las transmisiones.
 
-Nigdy nie przypuszczałem, że mój chwilowy troll na znajomych zyska tak ogromny rozgłos, a Ptoszek.pl stanie się tak rozpoznawalny. Co ciekawe, wiele osób wciąż zastanawia się, czy strona jest wirusem, IP-stealerem lub czymś podobnym. Odpowiedź jest prosta: nie, i nigdy taką formą nie będzie / nie był.
-Musiałem jednak zmierzyć się z licznymi zgłoszeniami – zarówno do Cloudflare, gdzie opierałem zabezpieczenia strony, jak i do CERT, który po moim odwołaniu przywrócił stronę do działania. Niestety, niektórzy nadal uparcie wierzą w fałszywe teorie o tym, że strona jest zawirusowana.
+Nunca imaginé que mi troll momentáneo a mis amigos alcanzaría tanta repercusión, ni que Ptoszek.pl llegaría a ser tan reconocido. Curiosamente, mucha gente todavía se pregunta si la página es un virus, un IP-stealer o algo por el estilo. La respuesta es simple: no lo es, y nunca lo ha sido ni lo será.
+Sin embargo, he tenido que enfrentar numerosas denuncias, tanto ante Cloudflare, donde tenía basada la protección del sitio, como ante el CERT, que tras mi apelación restableció el funcionamiento de la página. Lamentablemente, algunas personas siguen creyendo con obstinación en falsas teorías sobre que la página está infectada.
 
-Mimo to, będę nieustannie dbał o to, by strona była dostępna i mogła edukować użytkowników, ostrzegając ich przed realnymi zagrożeniami w internecie.
+Aun así, seguiré cuidando de que la página esté disponible y pueda seguir educando a los usuarios, advirtiéndoles sobre los peligros reales de internet.
 
 ---
 
-**Zostań częścią projektu i pomóż przestrzegać innych o niebezpieczeństwie w internecie!** 🚀
+**¡Únete al proyecto y ayuda a advertir a otros sobre los peligros en internet!** 🚀
