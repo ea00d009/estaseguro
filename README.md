@@ -1,10 +1,10 @@
-# ¿Estás seguro? - ¡Trollea a alguien con Ptoszek!
+# ¿Estás seguro? - ¡Trollea a alguien descuidado!
 
 ![Ptoszek.pl](./media/images/ptok.jpg)
 
 [![Servidor oficial de Discord](https://img.shields.io/badge/Discord-Servidor%20oficial%20de%20Discord-5865F2?logo=discord&logoColor=white)](https://dc.ptoszek.pl)
 
-### ¿Qué es ptoszek.pl?
+### Qué es ¿Estás seguro?
 Ptoszek.pl es un proyecto educativo cuyo objetivo es concienciar a los usuarios de internet sobre los riesgos de abrir enlaces desconocidos. El sitio demuestra las capacidades potenciales de las páginas web ejecutadas en el navegador, como interacciones inusuales o acciones inesperadas.
 
 **Atención:**  
